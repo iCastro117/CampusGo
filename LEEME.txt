@@ -1,0 +1,18 @@
+CampusGo · Ruta Legal del Emprendedor
+Gestión Jurídica del Emprendimiento · Prof. Orlando Garzón González · Konrad Lorenz 2026-2
+
+CÓMO ABRIRLO
+1. Descomprime el ZIP.
+2. Abre index.html con doble clic (Chrome, Edge, Safari o Firefox).
+   No necesita instalar nada: todo el código, los dibujos y el logo están dentro del archivo.
+3. Con internet se ven las fuentes Fredoka y Nunito; sin internet usa fuentes del sistema y todo funciona igual.
+
+CÓMO SE JUEGA
+- Botón "Jugar" y luego cada nivel del mapa (8 niveles, 1 minuto cada uno).
+- Casita amarilla (arriba a la izquierda): vuelve al inicio.
+- X rosada: vuelve al mapa.
+- Botón morado (arriba a la derecha): equipo y fuentes. Allí está "Reiniciar estrellas".
+- El avance se guarda en el navegador.
+
+PARA PUBLICARLO EN INTERNET (opcional)
+Sube la carpeta a GitHub Pages, Netlify Drop o Vercel; index.html es la página de inicio.
